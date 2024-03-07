@@ -22,7 +22,6 @@ for (let i = 0; i < verifiedEmails.length; i++) {
   
 }
 
-console.log(isUserEmailVerified)
 //Stampo il messaggio appropriato in console
   //Se il valore di isUserEmailVerified e vero stampo messaggio di successo
   if (isUserEmailVerified == true) {
